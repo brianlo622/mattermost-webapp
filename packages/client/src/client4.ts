@@ -137,8 +137,6 @@ export const DEFAULT_LIMIT_AFTER = 30;
 
 const LDAP_SERVICE = 'ldap';
 
-/* eslint-disable no-throw-literal */
-
 export default class Client4 {
     logToConsole = false;
     serverVersion = '';
